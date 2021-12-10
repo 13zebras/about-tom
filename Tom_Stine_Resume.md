@@ -1,11 +1,11 @@
 # Tom Stine - Resume
 ### Web3 Developer and Web3 Advocate-Instructor
 
-Current Location: Springfield, Missouri USA (will relocate)
-Github: https://github.com/13zebras
-Email: tomdev at 13z dot one
+- Current Location: Springfield, Missouri USA (will relocate)
+- Github: https://github.com/13zebras
+- Email: tomdev at 13z dot one
 
- ## SKILLS
+## SKILLS
 
 #### Technical skills:  
 Web3 and NFT projects with Buildspace using Solidity, JS, and React on Ethereum, Polygon, and Solana. React + HTML/CSS/JS. Linux/Bash/Zsh. 
@@ -13,6 +13,7 @@ Web3 and NFT projects with Buildspace using Solidity, JS, and React on Ethereum,
 #### Non-Technical:
 Experienced teacher in a wide variety of subject areas, ages 14-70+, online and in person. Video production and editing for a wide variety of uses. Excellent writing and public speaking skills. Photo editing with Photoshop & GIMP. 
 
+---
 ## HIGHLIGHTS
 
 ### Web3 Training, Projects, and Courses, Online
@@ -27,6 +28,7 @@ Experienced teacher in a wide variety of subject areas, ages 14-70+, online and 
 ### Study Alternative High School, Springfield, MO
 - Teacher, Advisor, JAG Specialist, AUGUST 2017 - JUNE 2021
 
+---
 ## EXPERIENCE
 
 ### Center for Talented Youth / Johns Hopkins UniversityBaltimore, MD
@@ -89,6 +91,7 @@ Experienced teacher in a wide variety of subject areas, ages 14-70+, online and 
 - Real Estate Salesperson
 - OCTOBER 1987 - JANUARY 1990
 
+---
 ## EDUCATION
 
 ### Brown University, Providence, RI
