@@ -11,9 +11,9 @@ Email: tomdev at 13z dot one
 Web3 and NFT projects with Buildspace using Solidity, JS, and React on Ethereum, Polygon, and Solana. React + HTML/CSS/JS. Linux/Bash/Zsh. 
 
 #### Non-Technical:
-Experienced teacher in a wide variety of subject areas, ages 14-70+, online and in person. Video production and editing for a wide variety of uses. Excellent writing and public speaking skills. Photo editing with Photoshop & GIMP. 
+Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, online and in person. Excellent writing and public speaking skills. Video production and editing for a wide variety of uses. Photo editing with Photoshop & GIMP. 
 
-## HIGHLIGHTS
+## EDUCATION/EXPERIENCE HIGHLIGHTS
 
 ### Web3 Training, Projects, and Courses, Online
 - Buildspace, Moralis Academy, JULY 2021 - PRESENT
@@ -26,6 +26,8 @@ Experienced teacher in a wide variety of subject areas, ages 14-70+, online and 
     
 ### Study Alternative High School, Springfield, MO
 - Teacher, Advisor, JAG Specialist, AUGUST 2017 - JUNE 2021
+
+--
 
 ## EXPERIENCE
 
@@ -89,6 +91,8 @@ Experienced teacher in a wide variety of subject areas, ages 14-70+, online and 
 - Real Estate Salesperson
 - OCTOBER 1987 - JANUARY 1990
 
+--
+
 ## EDUCATION
 
 ### Brown University, Providence, RI
@@ -111,3 +115,14 @@ Experienced teacher in a wide variety of subject areas, ages 14-70+, online and 
 ### Ozark High School, Ozark, MO
 - Diploma. Valedictorian.
 - SEPTEMBER 1979 - MAY 1983
+
+--
+
+## Relocation
+
+Willing to relocate to:
+- Asia-Pacific
+- Europe
+- West Coast, USA
+- Canada (Vancouver, Toronto, Montreal)
+- Other locations will be considered depending upon potential of opportunity.
