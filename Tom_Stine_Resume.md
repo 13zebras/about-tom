@@ -93,7 +93,7 @@ Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, 
 - Real Estate Salesperson
 - OCTOBER 1987 - JANUARY 1990
 
---
+---
 
 ## EDUCATION
 
@@ -118,7 +118,7 @@ Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, 
 - Diploma. Valedictorian.
 - SEPTEMBER 1979 - MAY 1983
 
---
+---
 
 ## Relocation
 
