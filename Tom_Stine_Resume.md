@@ -21,16 +21,16 @@ Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, 
 
 ## EDUCATION/EXPERIENCE HIGHLIGHTS
 
-### Web3 Training, Projects, and Courses, Online
+#### Web3 Training, Projects, and Courses, Online
 - *Buildspace, Moralis Academy, JULY 2021 - PRESENT*
 
-### Brown University, Providence, RI
+#### Brown University, Providence, RI
 - BA Biology, magna cum laude, SEPTEMBER 1983 - MAY 1987
 
-### Center for Talented Youth / Johns Hopkins UniversityBaltimore, MD
+#### Center for Talented Youth / Johns Hopkins UniversityBaltimore, MD
 - Math Teacher, AUGUST 2020 - PRESENT
     
-### Study Alternative High School, Springfield, MO
+#### Study Alternative High School, Springfield, MO
 - Teacher, Advisor, JAG Specialist, AUGUST 2017 - JUNE 2021
 
 <p>&nbsp;</p>
