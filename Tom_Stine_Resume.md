@@ -99,8 +99,8 @@ EXPERIENCE
 - OCTOBER 1987 - JANUARY 1990
 
 ---
-&nbsp;
-&nbsp;
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 EDUCATION
 ---------
 
@@ -128,6 +128,7 @@ EDUCATION
 ---
 
 <br />
+
 Relocation
 ----------
 
