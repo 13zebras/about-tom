@@ -6,7 +6,7 @@
 - Github: https://github.com/13zebras
 - Email: tomdev at 13z dot one
 
-<br />
+---
 
 ## SKILLS
 
@@ -18,13 +18,13 @@
 
 - Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, online and in person. Excellent writing and public speaking skills. Video production and editing for a wide variety of uses. Photo editing with Photoshop & GIMP. 
 
-<br />
+---
 
 ## EDUCATION/EXPERIENCE HIGHLIGHTS
 
 #### Web3 Training, Projects, and Courses, Online
 
-- *Buildspace, Moralis Academy, JULY 2021 - PRESENT*
+- Buildspace, Moralis Academy, JULY 2021 - PRESENT
 
 #### Brown University, Providence, RI
 
@@ -38,7 +38,7 @@
 
 - Teacher, Advisor, JAG Specialist, AUGUST 2017 - JUNE 2021
 
-<br />
+---
 
 ## EXPERIENCE
 
@@ -114,7 +114,7 @@
 - Real Estate Salesperson
 - OCTOBER 1987 - JANUARY 1990
 
-<br />
+---
 
 ## EDUCATION
 
@@ -143,7 +143,7 @@
 - Diploma. Valedictorian.
 - SEPTEMBER 1979 - MAY 1983
 
-<br />
+---
 
 ## Relocation
 
