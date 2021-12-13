@@ -2,7 +2,7 @@
 
 ### Who Am I?
 
-I am an up and coming Web3 developer with a particular interest in smart contract programming on Ethereum and Solana for Defi and NFT's. I also have a strong interest in other blockchains and protocols such as Mina, Polygon, Arweave, IPFS, other decentralized storage protocols like Storj, as well as zk rollups and other Layer 2 solutions to Ethereum scaling. In fact, there really is no area of "crypto" that I don't find incredibly fascinating.
+I am an up and coming Web3 developer with a particular interest in smart contract programming on Ethereum and Solana for Defi and NFT's. I also have a strong interest in other blockchains and protocols such as Mina, Polygon, Arweave, IPFS, other decentralized storage protocols like Storj, as well as zk rollups and other Layer 2 solutions to Ethereum scaling. I'm also interest in smart contract auditing and code review. In fact, there really is no area of "crypto" that I don't find incredibly fascinating.
 
 I have many years experience teaching a wide variety of subjects to all ages. I love teaching, and I have said for years that "I can (almost) teach anything to anyone". While I can't teach the fundamentals of quantum mechanics, I can give an overview of the subject and then start learning the material **with** my students, learning as I go. There is real power in letting your students see you learning along with them. Teaching is far less about command of the material (although that does help!) and far more about discovering what a given student needs to take the next step in acquiring the knowledge or understanding they need to move forward.
 
