@@ -18,7 +18,8 @@ Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, 
 
 ---
 
-## EDUCATION/EXPERIENCE HIGHLIGHTS
+EDUCATION/EXPERIENCE HIGHLIGHTS
+-------------------------------
 
 ### Web3 Training, Projects, and Courses, Online
 - Buildspace, Moralis Academy, JULY 2021 - PRESENT
@@ -34,7 +35,8 @@ Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, 
 
 ---
 
-## EXPERIENCE
+EXPERIENCE
+----------
 
 ### Center for Talented Youth / Johns Hopkins UniversityBaltimore, MD
 - Math Teacher
@@ -97,8 +99,10 @@ Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, 
 - OCTOBER 1987 - JANUARY 1990
 
 ---
-
-## EDUCATION
+&nbsp;
+&nbsp;
+EDUCATION
+---------
 
 ### Brown University, Providence, RI
 - BA Biology, magna cum laude
@@ -123,7 +127,9 @@ Experienced, effective teacher in a wide variety of subject areas, ages 14-70+, 
 
 ---
 
-## Relocation
+<br />
+Relocation
+----------
 
 Willing to relocate to:
 - Asia-Pacific
