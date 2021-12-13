@@ -153,3 +153,8 @@
 - West Coast, USA
 - Canada (Vancouver, Toronto, Montreal)
 - Other locations will be considered depending upon potential of opportunity.
+
+#### PDF Version
+
+You can download a PDF copy of my resume here:
+[Tom Stine Resume PDF](https://github.com/13zebras/about-tom/raw/main/documents/tom_stine_resume_2021-12-09.pdf)
