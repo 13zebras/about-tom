@@ -101,6 +101,7 @@ EXPERIENCE
 ---
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 EDUCATION
 ---------
 
@@ -126,7 +127,6 @@ EDUCATION
 - SEPTEMBER 1979 - MAY 1983
 
 ---
-
 <br />
 
 Relocation
