@@ -1,11 +1,14 @@
-# Tom Stine - Resume
+Tom Stine - Resume
+==================
+
 ### Web3 Developer and Web3 Advocate-Instructor
 
 - Current Location: Springfield, Missouri USA (will relocate)
 - Github: https://github.com/13zebras
 - Email: tomdev at 13z dot one
 
-## SKILLS
+SKILLS
+------
 
 #### Technical skills:  
 Web3 and NFT projects with Buildspace using Solidity, JS, and React on Ethereum, Polygon, and Solana. React + HTML/CSS/JS. Linux/Bash/Zsh. 
