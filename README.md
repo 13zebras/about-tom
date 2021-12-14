@@ -17,4 +17,4 @@ Which is why I love the fact that the entire crypto industry is open to everyone
 ### Resume
 
 My resume, in markdown format, can be found here:
-- [Tom Stine's Resume](https://github.com/13zebras/about-tom/blob/main/Tom_Stine_Resume.md)
+- [Tom Stine's Resume](https://github.com/13zebras/about-tom/blob/main/tom-stine-resume.md)
