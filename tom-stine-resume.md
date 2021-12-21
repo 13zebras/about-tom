@@ -20,29 +20,21 @@
 
 ---
 
-## EDUCATION/EXPERIENCE HIGHLIGHTS
+## HIGHLIGHTS - EDUCATION/EXPERIENCE 
 
-#### Web3 Training, Projects, and Courses, Online
+**Brown University, Providence, RI** *- BA Biology, magna cum laude*
 
-- Buildspace, Moralis Academy
+**Web3 Training, Projects, and Courses, Online** *- Buildspace, Moralis Academy*
 
-#### Brown University, Providence, RI
-
-- BA Biology, magna cum laude
-
-#### Center for Talented Youth / Johns Hopkins UniversityBaltimore, MD
-
-- Math Teacher
+**Center for Talented Youth / Johns Hopkins University, Baltimore, MD** *- Math Teacher*
     
-#### Study Alternative High School, Springfield, MO
-
-- Teacher, Advisor, JAG Specialist
+**Study Alternative High School, Springfield, MO** *- Teacher, Advisor, JAG Specialist*
 
 ---
 
 ## EXPERIENCE
 
-#### Center for Talented Youth / Johns Hopkins UniversityBaltimore, MD
+#### Center for Talented Youth / Johns Hopkins University, Baltimore, MD
 
 - Math Teacher
 - AUGUST 2020 - PRESENT
@@ -78,7 +70,7 @@
 #### Day Trading Stocks, Commodities, and Forex, Springfield, M0
 
 - Self-employed
-- FEBRUARY 1997 - JANUARY 2015
+- FEBRUARY 1997 - JANUARY 2017
 - Trading of forex, futures, options, stocks, and bonds for my own portfolio.
 
 #### Bailey Alternative High School, Springfield, MO
