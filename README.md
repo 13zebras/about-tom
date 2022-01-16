@@ -2,7 +2,7 @@
 
 ### Who Am I?
 
-I am a Web3 Developer with a particular interest in smart contract programming on Ethereum and Solana for Defi and NFT's. I also have a strong interest in other blockchains and protocols such as Mina, Polygon, Arweave, IPFS, other decentralized storage protocols like Storj, as well as zk rollups and other Layer 2 solutions to Ethereum scaling. In fact, there really is no area of "crypto" that I don't find incredibly fascinating. In addition, I have growing skills in full stack development using React, Node.js, etc. 
+I am a up and coming Web3 Developer with a particular interest in smart contract programming on Ethereum and Solana for Defi, DAO's, and NFT's. I also have a strong interest in other blockchains and protocols such as Mina, Polygon, Arweave, IPFS, other decentralized storage protocols like Storj, as well as zk rollups and other Layer 2 solutions to Ethereum scaling. In fact, there really is no area of "crypto" that I don't find incredibly fascinating. In addition, I have growing skills in full stack development using React, Node.js, etc. 
 
 I have many years of experience teaching a wide variety of subjects to all ages. I love teaching, and I have said for years that "I can teach anything to anyone". While I can't teach the fundamentals of quantum mechanics, I can give an overview of the subject and then start learning the material **with** my students, learning as I go. There is real power in letting your students see you learning along with them. Teaching is far less about command of the material (although that does help!) and far more about discovering what a given student needs to take the next step in acquiring the knowledge or understanding they need to move forward.
 
@@ -16,7 +16,7 @@ Finally, I must confess that I grew up on a dairy farm in rural Missouri. I come
 
 All of the above help explains why the entire crypto industry has such massive appeal for me. It is open to everyone! I see it as a movement that can bring opportunities to people and places that have had none, and unite people from all over the world who wish to create profound changes for the betterment of all. 
 
-Thanks for reading! Peace, WAGMI 
+Please have a look at the rest of my github to see examples of code I've written and projects I've devoted time to creating. Thanks for reading! Peace... WAGMI... _Tom_
 
 ### Resume
 
