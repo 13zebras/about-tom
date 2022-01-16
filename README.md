@@ -8,11 +8,15 @@ I have many years of experience teaching a wide variety of subjects to all ages.
 
 In addition to teaching and coding, I spent 20 years trading a variety of financial instruments for my own accounts. I focused considerable attention on the precious metals markets, bond markets, and to a lesser extent forex markets. In the process, I learned quite a bit about central banking and the finanical markets in general, which helps to explain my interest in cryptocurrencies and defi.
 
-I have always had a voracious appetite for acquiring knowledge, with a particular love of all things "tech", history, politics, international affairs, psychology, and geography. I especially love maps, and my daughter often jokes that I seem to have "a map in my head" due to the many hours of quite literally staring at them as a kid. I am truly a life-long learner, and I will tackle any subject thrown my way and achieve the required mastery if needed.
+I have always had a voracious appetite for acquiring knowledge, with a particular love of all things "tech", history, politics, international affairs, psychology, and geography (which is why I am eternally grateful for my years at Brown). I especially love maps, and my daughter often jokes that I seem to have "a map in my head" due to the many hours of quite literally staring at them as a kid. I am truly a life-long learner, and I will tackle any subject thrown my way and achieve the required mastery if needed.
+
+And in case it isn't obvious, I love to write. (And I'm not too shabby at it, wouldn't you agree? 😂)
 
 Finally, I must confess that I grew up on a dairy farm in rural Missouri. I come from a long line of farmers, and while I can fix anything with a hammer, duct tape, WD-40, and wire or twine, milking cows had no appeal to me. I would rather pursue more intellectually stimulating and challenging endeavors. I therefore have a very cosmopolitan and global perspective, one that considers the inherent value and worth of all people, no matter their country, background, orientation, age, or any other factor that in truth creates the rich diversity of humanity. 
 
 All of the above help explains why the entire crypto industry has such massive appeal for me. It is open to everyone! I see it as a movement that can bring opportunities to people and places that have had none, and unite people from all over the world who wish to create profound changes for the betterment of all. 
+
+Thanks for reading! Peace, WAGMI 
 
 ### Resume
 
