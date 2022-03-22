@@ -10,13 +10,13 @@
 
 ## SKILLS - CORE
 
-1. I have a proven ability to learn most things quickly, even difficult to grasp concepts. Currently devouring Web3.
-2. I easily understand complex topics, especially technical subjects. 
-3. I make complex subjects simple, am able to explain concepts easily. I have a proven ability to teach a wide variety of subjects to almost anyone.
+1. I have a proven ability to teach a wide variety of subjects to almost anyone. I can make complex subjects simple, and I’m able to explain concepts easily.
+2. I have a proven ability to learn most things quickly, even difficult to grasp concepts. Currently devouring Web3.
+3. I easily understand complex topics, especially technical subjects. 
 
 ## SKILLS - SPECIFIC
 
-- Highly experienced educator, many subject areas, oline & in person. 
+- Highly experienced educator, many subject areas, online & in person. 
 - Experience with Web3, React, HTML/CSS/JS. Bash, Linux.
 - Excellent writing skills, curriculum writing, online content.
 - Excellent public speaking & presentation skills.
@@ -28,7 +28,7 @@
 
 #### Web3 Startup (Solana)
 
-- Documentation Writer. JANUARY 2022 - PRESENT
+- Documentation Writer, Miscellaneous Jobs. JANUARY 2022 - PRESENT
 - Unpaid position helping developers working on a "web3 social media" platform built on Solana.
 
 #### Center for Talented Youth / Johns Hopkins University, Baltimore, MD
@@ -122,7 +122,3 @@ JUNE 1992 - JULY 1994; JANUARY 2000 - AUGUST 2002
 - West Coast, East Coast, USA
 - Canada (Vancouver, Toronto, Montreal)
 - Other locations will be considered depending upon potential of opportunity.
-
-#### *PDF copy of this resume available here:*
-
-[Tom Stine Resume PDF](https://github.com/13zebras/about-tom/raw/main/documents/tom-stine-resume-2022-02.pdf)
